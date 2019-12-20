@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60" started-at="2019-11-21T11:02:41 CST" finished-at="2019-11-21T11:02:41 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60" started-at="2019-11-21T11:02:41 CST" finished-at="2019-11-21T11:02:41 CST">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="addutil()[pri:0, instance:qaclickacademy.AppiumTest@7a765367]" name="addutil" duration-ms="9" started-at="2019-11-21T11:02:41 CST" finished-at="2019-11-21T11:02:41 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addutil -->
+        <test-method status="PASS" signature="mobileapp()[pri:0, instance:qaclickacademy.AppiumTest@7a765367]" name="mobileapp" duration-ms="1" started-at="2019-11-21T11:02:41 CST" finished-at="2019-11-21T11:02:41 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileapp -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
