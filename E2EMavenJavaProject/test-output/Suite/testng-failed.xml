@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="Testing.listener"/>
+  </listeners>
+  <test thread-count="5" name="testng2(failed)">
+    <classes>
+      <class name="Testing.Homepage">
+        <methods>
+          <include name="close"/>
+          <include name="basepageNavigation" invocation-numbers="0 1"/>
+        </methods>
+      </class> <!-- Testing.Homepage -->
+    </classes>
+  </test> <!-- testng2(failed) -->
+</suite> <!-- Failed suite [Suite] -->

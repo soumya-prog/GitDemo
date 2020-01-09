@@ -1,0 +1,4 @@
+22:50:25.126 [main] ERROR Resources.Baseclass -error has occured
+22:52:24.274 [main] INFO  Resources.Baseclass -driver is initialized at Assertions
+22:52:27.906 [main] INFO  Resources.Baseclass -Navigated to Home page at Assertions
+22:52:29.070 [main] ERROR Resources.Baseclass -error has occured

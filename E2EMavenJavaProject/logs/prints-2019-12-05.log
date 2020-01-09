@@ -1,0 +1,7 @@
+23:51:32.171 [main] INFO  Resources.Baseclass -Navigated to Home page at Assertions
+23:51:33.292 [main] ERROR Resources.Baseclass -error has occured
+23:54:01.690 [main] INFO  Resources.Baseclass -driver is initialized
+23:54:06.336 [main] INFO  Resources.Baseclass -Navigated to home page
+23:54:15.486 [main] INFO  Resources.Baseclass -login page is successfully run
+23:54:19.722 [main] INFO  Resources.Baseclass -driver is initialized
+23:54:24.695 [main] INFO  Resources.Baseclass -Navigated to home page
