@@ -12,6 +12,9 @@ public class AppiumTest {
 	@Test
 	public void addutil() {
 		System.out.println("addutil");
+		System.out.println("addutil2");
+		System.out.println("addutil4");
+		System.out.println("addutil5");
 	}
 
 }

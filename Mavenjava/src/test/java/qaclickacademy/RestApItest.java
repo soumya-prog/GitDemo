@@ -14,5 +14,7 @@ public class RestApItest {
 	@Test
 	public void deleteutil() {
 		System.out.println("deleteutil");	
+		System.out.println("deleteutil2");
+		System.out.println("deleteutil5");	
 	}
 }
